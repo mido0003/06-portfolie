@@ -1,4 +1,19 @@
 
+
+
+/* Mine farver HUSKE AT SLETTE DENNE NÅR JEG SKAL AFLEVERE */
+color {
+    color: #FFFCD9;
+    color: #CDF0CA;
+    color: #F8D3F8;
+    color: #D97CB9;
+    color: #C54298;
+    color: #171717;
+   
+}
+
+
+
 /* Mine skrifttyper */
 @font-face {
     font-family: Delius;
@@ -14,3 +29,52 @@
     font-family: RedditLight;
     src: url(/font/RedditSans-Light.ttf);
 } 
+
+
+
+.menu {
+    font-family: Delius;
+    color: #171717;
+    display:flex;
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+    padding:2em; 
+    padding-left: 230px;
+    a {text-decoration: none;
+        }
+        a:hover {
+            color: #C54298;
+        }
+        }
+
+body {
+    background-color: #FFFCD9;
+}
+
+header {
+    background-color: #F8D3F8;
+    width: 100%;
+}
+
+.Linje {
+    
+    height: 1px;  /* Tykkelsen */
+    background-color: black; /* Farven på linjen */
+    margin: 40px auto; /* Afstand over og under, centreret */
+    margin-top: 1px;
+}
+
+h1 {
+    font-family: Delius;
+    font-size: 28px;
+    color:#C54298;
+    padding-left: 10px;
+}
+
+p {
+    font-family: RedditLight;
+    padding-left: 25px;
+    padding-right: 25px;
+}
