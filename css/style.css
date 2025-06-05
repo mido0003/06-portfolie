@@ -66,15 +66,41 @@ header {
     margin-top: 1px;
 }
 
-h1 {
+/* H2 */
+.Velkommen {
     font-family: Delius;
-    font-size: 28px;
+    font-size: 24px;
     color:#C54298;
-    padding-left: 10px;
+    padding-left: 35px;
 }
+
+.Hop {
+    font-family: Delius;
+    font-size: 24px;
+    color:#C54298;
+    padding-left: 35px;
+    padding-top: 50px;
+}
+
+.Temaopgaverne{
+    font-family: Delius;
+    font-size: 24px;
+    color:#C54298;
+    padding-left: 35px;
+    padding-top: 50px;
+}
+
 
 p {
     font-family: RedditLight;
     padding-left: 25px;
     padding-right: 25px;
+}
+
+.Knap {
+    font-family: Delius;
+    a {
+  text-decoration: none;
+}
+padding-left: 35px;
 }
