@@ -1,1 +1,16 @@
 
+/* Mine skrifttyper */
+@font-face {
+    font-family: Delius;
+    src: url(/font/DeliusSwashCaps-Regular.ttf);
+}
+
+@font-face {
+    font-family: RedditExtralight;
+    src: url(/font/RedditSans-ExtraLight.ttf);
+} 
+
+@font-face {
+    font-family: RedditLight;
+    src: url(/font/RedditSans-Light.ttf);
+} 
