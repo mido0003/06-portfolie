@@ -104,3 +104,104 @@ p {
 }
 padding-left: 35px;
 }
+
+
+/* KNAP TEMA1 FORSIDE */
+.tema1knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {text-decoration: none;
+        }
+}
+
+.tema1knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+
+/* KNAP TEMA2 FORSIDE */
+.tema2knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {text-decoration: none;
+        }
+}
+
+
+
+.tema2knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+/* KNAP TEMA3 FORSIDE */
+.tema3knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {text-decoration: none;
+        }
+}
+
+
+
+.tema3knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+/* KNAP TEMA4 FORSIDE */
+.tema4knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {text-decoration: none;
+        }
+}
+
+
+
+.tema4knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+
+/* KNAP TEMA5 FORSIDE */
+.tema5knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {text-decoration: none;
+        }
+}
+
+
+
+.tema5knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
