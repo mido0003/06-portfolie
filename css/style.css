@@ -1,0 +1,490 @@
+
+
+
+/* Mine farver HUSKE AT SLETTE DENNE NÅR JEG SKAL AFLEVERE */
+color {
+    color: #FFFCD9;
+    color: #CDF0CA;
+    color: #F8D3F8;
+    color: #D97CB9;
+    color: #C54298;
+    color: #171717;
+   
+}
+
+
+/* Mine skrifttyper */
+@font-face {
+    font-family: Delius;
+    src: url(/font/DeliusSwashCaps-Regular.ttf);
+}
+
+@font-face {
+    font-family: RedditExtralight;
+    src: url(/font/RedditSans-ExtraLight.ttf);
+} 
+
+@font-face {
+    font-family: RedditLight;
+    src: url(/font/RedditSans-Light.ttf);
+} 
+
+
+
+.container {
+  position: relative;
+  display: inline-block; /* viktig for at tekst følger bildet */
+}
+
+#computer {
+  display: block;
+  width: 100%; 
+  padding-left: 90px;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;   /* midt på høyden */
+  left: 50%;  /* midt på bredden */
+  transform: translate(-50%, -50%); /* nøyaktig sentrering */
+  color: #171717;
+  font-size: 34px;
+  font-family: Delius;
+  padding-bottom: 80px;
+  padding-right: 60px;
+}
+
+
+.menu {
+    font-family: Delius;
+    color: #171717;
+    display:flex;
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+    padding:2em; 
+    padding-left: 230px;
+    a {
+   text-decoration: none;
+   color: #171717; 
+}
+        a:hover {
+            color: #C54298;
+        }
+        }
+
+body {
+    background-color: #FFFCD9;
+}
+
+header {
+    background-color: #F8D3F8;
+    width: 100%;
+}
+
+footer {
+  background-color: #F8D3F8;
+  width: 100%;
+}
+
+.Linje {
+    
+    height: 1px;  /* Tykkelsen */
+    background-color: black; /* Farven på linjen */
+    margin: 40px auto; /* Afstand over og under, centreret */
+    margin-top: 1px;
+}
+
+/* H2 */
+.Velkommen {
+    font-family: Delius;
+    font-size: 24px;
+    color:#C54298;
+    padding-left: 35px;
+}
+
+.Hop {
+    font-family: Delius;
+    font-size: 24px;
+    color:#C54298;
+    padding-left: 35px;
+    padding-top: 50px;
+}
+
+.Temaopgaverne{
+    font-family: Delius;
+    font-size: 24px;
+    color:#C54298;
+    padding-left: 35px;
+    padding-top: 50px;
+}
+
+
+p {
+    font-family: RedditLight;
+    font-size: 14px;
+    padding-left: 35px;
+    padding-right: 25px;
+}
+
+.Knap {
+    font-family: Delius;
+   a {
+   text-decoration: none;
+   color: #171717; 
+}
+ a:hover {
+            color: #C54298;
+        }
+padding-left: 35px;
+}
+
+
+/* KNAP TEMA1 FORSIDE */
+.tema1knap {
+  background-color: #CDF0CA;
+  margin-right: 50px;
+  margin-left: 35px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.tema1knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+
+/* KNAP TEMA2 FORSIDE */
+.tema2knap {
+    background-color: #CDF0CA;
+    margin-right: 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.tema2knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+/* KNAP TEMA3 FORSIDE */
+.tema3knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+.tema3knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+/* KNAP TEMA4 FORSIDE */
+.tema4knap {
+  background-color: #CDF0CA;
+  
+  margin-top: 20px;
+  margin-left: 105px;
+  margin-right: 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+.tema4knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+
+/* KNAP TEMA5 FORSIDE */
+.tema5knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+.tema5knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+.kontakt {
+font-family: Delius;
+font-size: 16px;
+}
+
+.email {
+  font-family: RedditLight;
+  font-size: 14px;
+  padding-bottom: 30px;
+}
+
+.Linjefooter {
+  margin-top: 100px;
+  height: 1px;  /* Tykkelsen */
+    background-color: black; /* Farven på linjen */
+    margin: 40px auto; /* Afstand over og under, centreret */
+}
+
+
+
+/* HVIS DER ER NOGET SOM SKAL VÆRE ANDERELDES NÅR DET ER PÅ COMPUTERSKRÆM KAN JEG SKRIVE DET HERUNDER */
+@media (width>=600px){
+.menu {
+    font-family: Delius;
+    font-size: 20px;
+    color: #171717;
+    display:flex;
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    list-style-type: none;
+    padding:2em; 
+    padding-left: 1200px;
+    a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+#computer {
+width: 1100px;
+height: auto; 
+margin-left: 500px;
+margin-right: 
+}
+
+/* #computer {
+  display: block;
+  width: 100%; 
+  padding-left: 90px;
+} */
+
+/* H2 */
+.Velkommen {
+    font-family: Delius;
+    font-size: 34px;
+    color:#C54298;
+    padding-left: 50px;
+}
+
+.Hop {
+    font-family: Delius;
+    font-size: 34px;
+    color:#C54298;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.Temaopgaverne{
+    font-family: Delius;
+    font-size: 34px;
+    color:#C54298;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+p {
+    font-family: RedditLight;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 25px;
+}
+
+.Knap {
+    font-family: Delius;
+    font-size: 20px;
+    margin-left:30px;
+   a {
+   text-decoration: none;
+   color: #171717; 
+}
+ a:hover {
+            color: #C54298;
+        }
+padding-left: 35px;
+}
+
+.container {
+  position: relative;
+  display: inline-block; /* viktig for at tekst følger bildet */
+}
+
+#computer {
+  display: block;
+  width: 100%; 
+  padding-left: 90px;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;   /* midt på høyden */
+  left: 50%;  /* midt på bredden */
+  transform: translate(-50%, -50%); /* nøyaktig sentrering */
+  color: #171717;
+  font-size: 60px;
+  font-family: Delius;
+  padding-bottom: 80px;
+  padding-right: 60px;
+}
+
+.kontakt {
+font-family: Delius;
+font-size: 20px;
+}
+
+.email {
+  font-family: RedditLight;
+  font-size: 16px;
+  padding-bottom: 30px;
+}
+
+
+
+/* KNAP TEMA1 FORSIDE */
+.tema1knap {
+  background-color: #CDF0CA;
+  margin-right: 50px;
+  margin-left: 45px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+/* KNAP TEMA2 FORSIDE */
+.tema2knap {
+    background-color: #CDF0CA;
+    margin-right: 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+/* KNAP TEMA3 FORSIDE */
+.tema3knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+/* KNAP TEMA4 FORSIDE */
+.tema4knap {
+  background-color: #CDF0CA;
+  
+  margin-top: 60px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+/* KNAP TEMA5 FORSIDE */
+.tema5knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+.Linjefooter {
+  margin-top: 200px;
+  height: 1px;  /* Tykkelsen */
+    background-color: black; /* Farven på linjen */
+    
+}
+
+
+}
+
