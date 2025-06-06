@@ -31,6 +31,30 @@ color {
 
 
 
+.container {
+  position: relative;
+  display: inline-block; /* viktig for at tekst følger bildet */
+}
+
+#computer {
+  display: block;
+  width: 100%; 
+  padding-left: 90px;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;   /* midt på høyden */
+  left: 50%;  /* midt på bredden */
+  transform: translate(-50%, -50%); /* nøyaktig sentrering */
+  color: #171717;
+  font-size: 34px;
+  font-family: Delius;
+  padding-bottom: 80px;
+  padding-right: 60px;
+}
+
+
 .menu {
     font-family: Delius;
     color: #171717;
@@ -57,6 +81,11 @@ body {
 header {
     background-color: #F8D3F8;
     width: 100%;
+}
+
+footer {
+  background-color: #F8D3F8;
+  width: 100%;
 }
 
 .Linje {
@@ -95,7 +124,7 @@ header {
 p {
     font-family: RedditLight;
     font-size: 14px;
-    padding-left: 25px;
+    padding-left: 35px;
     padding-right: 25px;
 }
 
@@ -227,6 +256,24 @@ a {
   color: #D97CB9;
 }
 
+.kontakt {
+font-family: Delius;
+font-size: 16px;
+}
+
+.email {
+  font-family: RedditLight;
+  font-size: 14px;
+  padding-bottom: 30px;
+}
+
+.Linjefooter {
+  margin-top: 100px;
+  height: 1px;  /* Tykkelsen */
+    background-color: black; /* Farven på linjen */
+    margin: 40px auto; /* Afstand over og under, centreret */
+}
+
 
 
 /* HVIS DER ER NOGET SOM SKAL VÆRE ANDERELDES NÅR DET ER PÅ COMPUTERSKRÆM KAN JEG SKRIVE DET HERUNDER */
@@ -256,14 +303,14 @@ margin-left: 600px;
 /* H2 */
 .Velkommen {
     font-family: Delius;
-    font-size: 48px;
+    font-size: 34px;
     color:#C54298;
     padding-left: 50px;
 }
 
 .Hop {
     font-family: Delius;
-    font-size: 48px;
+    font-size: 34px;
     color:#C54298;
     padding-left: 50px;
     padding-top: 50px;
@@ -271,7 +318,7 @@ margin-left: 600px;
 
 .Temaopgaverne{
     font-family: Delius;
-    font-size: 48px;
+    font-size: 34px;
     color:#C54298;
     padding-left: 50px;
     padding-top: 50px;
@@ -286,7 +333,7 @@ p {
 
 .Knap {
     font-family: Delius;
-    font-size: 25px;
+    font-size: 20px;
     margin-left:30px;
    a {
    text-decoration: none;
@@ -297,6 +344,164 @@ p {
         }
 padding-left: 35px;
 }
+
+.container {
+  position: relative;
+  display: inline-block; /* viktig for at tekst følger bildet */
+}
+
+#computer {
+  display: block;
+  width: 100%; 
+  padding-left: 90px;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;   /* midt på høyden */
+  left: 50%;  /* midt på bredden */
+  transform: translate(-50%, -50%); /* nøyaktig sentrering */
+  color: #171717;
+  font-size: 60px;
+  font-family: Delius;
+  padding-bottom: 80px;
+  padding-right: 60px;
+}
+
+.kontakt {
+font-family: Delius;
+font-size: 20px;
+}
+
+.email {
+  font-family: RedditLight;
+  font-size: 16px;
+  padding-bottom: 30px;
+}
+
+
+
+
+
+
+/* KNAP TEMA1 FORSIDE */
+.tema1knap {
+  background-color: #CDF0CA;
+  margin-right: 50px;
+  margin-left: 35px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.tema1knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+
+/* KNAP TEMA2 FORSIDE */
+.tema2knap {
+    background-color: #CDF0CA;
+    margin-right: 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.tema2knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+/* KNAP TEMA3 FORSIDE */
+.tema3knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+.tema3knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+/* KNAP TEMA4 FORSIDE */
+.tema4knap {
+  background-color: #CDF0CA;
+  
+  margin-top: 20px;
+  margin-left: 105px;
+  margin-right: 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+.tema4knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+
+/* KNAP TEMA5 FORSIDE */
+.tema5knap {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+
+.tema5knap:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+
+
+
 
 }
 
