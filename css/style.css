@@ -30,6 +30,7 @@ color {
 } 
 
 
+/* Forsiden på mobilsite */
 
 .container {
   position: relative;
@@ -42,6 +43,7 @@ color {
   padding-left: 90px;
 }
 
+/* Min Multimediedesign 1. semester tekst */
 .overlay-text {
   position: absolute;
   top: 50%;   /* midt på høyden */
@@ -274,9 +276,41 @@ font-size: 16px;
     margin: 40px auto; /* Afstand over og under, centreret */
 }
 
+/* slut forsiden af mobilsite */
 
 
-/* HVIS DER ER NOGET SOM SKAL VÆRE ANDERELDES NÅR DET ER PÅ COMPUTERSKRÆM KAN JEG SKRIVE DET HERUNDER */
+
+/* Portfolie site mobil */
+
+
+
+
+
+.Minportfolie {
+  font-family: Delius;
+  font-size: 34px;
+  margin-left: 35px;
+  color: #171717;
+}
+
+.Overblik {
+  margin-bottom: 80px;
+  margin-left: 2px;
+}
+
+/* Panorering - panoramabillede */
+#pan1 {
+  background-image: url(../grafik/Computerpink-kopi.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+
+
+
+
+/************** HVIS DER ER NOGET SOM SKAL VÆRE ANDERELDES NÅR DET ER PÅ COMPUTERSKRÆM KAN JEG SKRIVE DET HERUNDER ******************************************/
 @media (width>=600px){
 .menu {
     font-family: Delius;
@@ -346,8 +380,8 @@ p {
    color: #171717; 
 }
  a:hover {
-            color: #C54298;
-        }
+color: #C54298;
+}
 padding-left: 35px;
 }
 
