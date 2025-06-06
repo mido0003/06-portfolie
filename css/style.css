@@ -297,8 +297,15 @@ font-size: 16px;
 #computer {
 width: 1100px;
 height: auto; 
-margin-left: 600px;
+margin-left: 500px;
+margin-right: 
 }
+
+/* #computer {
+  display: block;
+  width: 100%; 
+  padding-left: 90px;
+} */
 
 /* H2 */
 .Velkommen {
@@ -381,14 +388,11 @@ font-size: 20px;
 
 
 
-
-
-
 /* KNAP TEMA1 FORSIDE */
 .tema1knap {
   background-color: #CDF0CA;
   margin-right: 50px;
-  margin-left: 35px;
+  margin-left: 45px;
   text-align: center;
   text-decoration: none;
   font-size: 20px;
@@ -401,10 +405,6 @@ a {
 }
 }
 
-.tema1knap:hover {
-  background-color: #F8D3F8;
-  color: #D97CB9;
-}
 
 
 /* KNAP TEMA2 FORSIDE */
@@ -423,10 +423,6 @@ a {
 }
 }
 
-.tema2knap:hover {
-  background-color: #F8D3F8;
-  color: #D97CB9;
-}
 
 /* KNAP TEMA3 FORSIDE */
 .tema3knap {
@@ -444,18 +440,12 @@ a {
 }
 
 
-
-.tema3knap:hover {
-  background-color: #F8D3F8;
-  color: #D97CB9;
-}
-
 /* KNAP TEMA4 FORSIDE */
 .tema4knap {
   background-color: #CDF0CA;
   
-  margin-top: 20px;
-  margin-left: 105px;
+  margin-top: 60px;
+  margin-left: 50px;
   margin-right: 50px;
   text-align: center;
   text-decoration: none;
@@ -469,12 +459,6 @@ a {
 }
 }
 
-
-
-.tema4knap:hover {
-  background-color: #F8D3F8;
-  color: #D97CB9;
-}
 
 
 /* KNAP TEMA5 FORSIDE */
@@ -494,13 +478,12 @@ a {
 
 
 
-.tema5knap:hover {
-  background-color: #F8D3F8;
-  color: #D97CB9;
+.Linjefooter {
+  margin-top: 200px;
+  height: 1px;  /* Tykkelsen */
+    background-color: black; /* Farven på linjen */
+    
 }
-
-
-
 
 
 }
