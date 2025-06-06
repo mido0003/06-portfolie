@@ -283,9 +283,6 @@ font-size: 16px;
 /* Portfolie site mobil */
 
 
-
-
-
 .Minportfolie {
   font-family: Delius;
   font-size: 34px;
@@ -294,41 +291,20 @@ font-size: 16px;
 }
 
 .Overblik {
-  margin-bottom: 80px;
+  margin-bottom: 20px;
   margin-left: 2px;
 }
 
-/* Panorering - panoramabillede */
-#pan1 {
-  background-image: url(../img/Portraitfotodone.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 0% 0%;
+#macbook {
+  width: 80%;
+  margin-top: 40px;
+  margin-left: 30px;
+  margin-right: 20px;
+  border-color: #171717;
+  border-width: 3px;
+  border-style: solid;
 }
 
-/* #pan2 {
-  background-image: url(../img/Portraitfotodone.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 0% 0%;
-} */
-
-.pan_animation {
-  animation: panorama 5s linear infinite alternate;
-}
-
-@keyframes panorama {
-  from {
-    background-position: 0% 0%;
-  }
-  to {
-    background-position: 100% 0%;
-  }
-}
-
-.stop {
-  animation-play-state: paused;
-}
 
 
 
@@ -540,6 +516,40 @@ a {
     
 }
 
+/*Portfolie site computer */
+
+
+#macbook {
+  width: 54%;
+  margin-top: 50px;
+  }
+
+  
+
+
+
+.Temaopgaverne{
+    font-family: Delius;
+    font-size: 34px;
+    color:#C54298;
+    padding-left: 50px;
+    padding-top: 90px;
+    
+}
+
+.Minportfolie {
+  font-family: Delius;
+  font-size: 34px;
+  margin-left: 50px;
+  margin-top: 100px;
+  color: #171717;
+}
+
+.Overblik {
+  margin-bottom: 20px;
+  margin-left: 2px;
+  margin-right: 100px;
+}
 
 }
 
