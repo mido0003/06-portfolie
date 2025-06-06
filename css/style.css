@@ -303,10 +303,32 @@ font-size: 16px;
   background-image: url(../grafik/Computerpink-kopi.svg);
   background-size: cover;
   background-repeat: no-repeat;
-  
+  background-position: 0% 0%;
 }
 
+#pan2 {
+  background-image: url(../grafik/Computerpink-kopi.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0% 0%;
+}
 
+.pan_animation {
+  animation:panorama 5s linear infinite alternate;
+}
+
+@keyframes panorama {
+  from {
+    background-position: 0% 0%;
+  }
+  to {
+    background-position: 100% 0%;
+  }
+}
+
+.stop {
+  animation-play-state: paused;
+}
 
 
 
