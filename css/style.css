@@ -300,21 +300,21 @@ font-size: 16px;
 
 /* Panorering - panoramabillede */
 #pan1 {
-  background-image: url(../grafik/Computerpink-kopi.svg);
+  background-image: url(../img/Portraitfotodone.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0% 0%;
 }
 
-#pan2 {
-  background-image: url(../grafik/Computerpink-kopi.svg);
+/* #pan2 {
+  background-image: url(../img/Portraitfotodone.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0% 0%;
-}
+} */
 
 .pan_animation {
-  animation:panorama 5s linear infinite alternate;
+  animation: panorama 5s linear infinite alternate;
 }
 
 @keyframes panorama {
