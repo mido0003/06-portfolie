@@ -439,6 +439,11 @@ font-family: RedditExtralight;
 font-size: 16px;
 }
 
+.sestudiestart {
+font-family: Redditlight;
+font-size: 14px;
+}
+
 .minproces2 {
   font-family: Delius;
   font-size: 24px;
@@ -544,6 +549,153 @@ a {
   gap: 1rem;
   width: 100%;
 }
+
+/* tema 3 mobil */
+
+/* .seemnesite {
+  
+} */
+
+.Tema3 {
+  font-family: Delius;
+  font-size: 34px;
+  margin-left: 35px;
+}
+
+.emnesiteopgaven {
+font-family: RedditExtralight;
+font-size: 16px;
+}
+
+.seemnesite {
+font-family: Redditlight;
+font-size: 14px;
+}
+
+
+.minproces3 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning3 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering3 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot3 {
+   font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.websitebutton3 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+  margin-left: 40px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.websitebutton3:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+#aeteriskeolier {
+  width: 80%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#livsstil {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 50px;
+}
+
+#magi {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+
+
+#hvemerjeg {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#kodningemnesite {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#kodningemnesite2 {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 2rem; */
+  padding: 1rem;
+}
+
+/* Indlejret grid til billeder i proces */
+.proces-billeder {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -764,10 +916,6 @@ a {
   margin-top: 50px;
   }
 
-  
-
-
-
 .Temaopgaverne{
     font-family: Delius;
     font-size: 34px;
@@ -958,5 +1106,107 @@ a {
   margin-bottom: 100px;
 }
 
+
+
+/* tema3 */
+
+
+.Tema3 {
+  font-family: Delius;
+  font-size: 60px;
+  margin-left: 35px;
+}
+
+.emnesiteopgaven {
+font-family: RedditExtralight;
+font-size: 20px;
+}
+
+.minproces3 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning3 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering3 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot3 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+
+.websitebutton3 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+#hvemerjeg {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemnesite {
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemnesite2 {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+.temaproces3p {
+  margin-right: 800px;
+}
+
+.temalaering3p {
+  margin-right: 800px;
+  margin-bottom: 100px;
+}
+
+.seemnesite {
+font-family: RedditLight;
+font-size: 20px;
+}
 
 }
