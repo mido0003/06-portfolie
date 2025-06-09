@@ -858,12 +858,22 @@ a {
   width: 100%;
 }
 
+/* om mig */
+
+.ommig{
+  font-family: Delius;
+  font-size: 34px;
+  margin-left: 150px;
+}
 
 
-
-
-
-
+#mig {
+  width: 50%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 100px;
+}
 
 
 
