@@ -1387,4 +1387,134 @@ font-family: RedditLight;
 font-size: 20px;
 }
 
+
+
+/* tema4 */
+
+
+.Tema4 {
+  font-family: Delius;
+  font-size: 60px;
+  margin-left: 35px;
+}
+
+.emergencyopgaven {
+font-family: RedditExtralight;
+font-size: 20px;
+}
+
+.minproces4 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning4 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering4 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot4 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+
+.websitebutton4 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+/* billeder tema4 */
+#talebobler {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemergency {
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#bedandbreakfast {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+
+#emergencyforside {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemnesite {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemnesite2 {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+
+.temaproces4p {
+  margin-right: 800px;
+}
+
+.temalaering4p {
+  margin-right: 800px;
+  margin-bottom: 100px;
+}
+
+.seemergency {
+font-family: RedditLight;
+font-size: 20px;
+}
+
 }
