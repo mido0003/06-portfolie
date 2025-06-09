@@ -824,6 +824,25 @@ a {
   margin-left: 40px;
 }
 
+
+#styletilegabriella {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+
+
+#skitsevirksomhed {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1493,6 +1512,26 @@ a {
   border-style: solid;
   margin-bottom: 100px;
   margin-left: 170px;
+}
+
+#styletilegabriella {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 170px;
+  margin-bottom: 100px;
+}
+
+
+
+#skitsevirksomhed {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 170px;
+  margin-bottom: 100px;
 }
 
 
