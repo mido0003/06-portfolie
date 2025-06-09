@@ -372,16 +372,16 @@ a {
 }
 
 #personality {
-  width: 70%;
+  width: 80%;
   border-color: #171717;
-  border-width: 3px;
+  border-width: 2px;
   border-style: solid;
 }
 
 #personalitypicture {
   width: 70%;
   border-color: #171717;
-  border-width: 3px;
+  border-width: 2px;
   border-style: solid;
   margin-left: 40px;
 }
@@ -389,14 +389,14 @@ a {
 #medvirkende {
   width: 70%;
   border-color: #171717;
-  border-width: 3px;
+  border-width: 2px;
   border-style: solid;
 }
 
 #praesentationskort {
   width: 70%;
   border-color: #171717;
-  border-width: 3px;
+  border-width: 2px;
   border-style: solid;
   margin-left: 50px;
 }
