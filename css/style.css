@@ -426,6 +426,126 @@ video {
 } */
 
 
+/* tema2 mobilsite */
+
+.Tema2 {
+  font-family: Delius;
+  font-size: 34px;
+  margin-left: 35px;
+}
+
+.studiestartsproeven {
+font-family: RedditExtralight;
+font-size: 16px;
+}
+
+.minproces2 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning2 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering2 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot2 {
+   font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.websitebutton2 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+  margin-left: 40px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.websitebutton1:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+#hund {
+  width: 80%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#kodninglille {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#computerbillede {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 50px;
+}
+
+#kodningstor {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#redpicture {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 2rem; */
+  padding: 1rem;
+}
+
+/* Indlejret grid til billeder i proces */
+.proces-billeder {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  width: 100%;
+}
+
+
 
 
 /************** HVIS DER ER NOGET SOM SKAL VÆRE ANDERELDES NÅR DET ER PÅ COMPUTERSKRÆM KAN JEG SKRIVE DET HERUNDER ******************************************/
@@ -729,8 +849,6 @@ a {
    text-decoration: none;
    color: #171717; 
 }
-
-
 }
 
 
@@ -755,6 +873,90 @@ a {
   margin-bottom: 100px;
 }
 
+
+/* tema2 */
+.Tema2 {
+  font-family: Delius;
+  font-size: 60px;
+  margin-left: 35px;
+}
+
+.studiestartsproeven {
+font-family: RedditExtralight;
+font-size: 20px;
+}
+
+.minproces2 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning2 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering2 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot2 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+
+.websitebutton2 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+#hund {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#kodningstor {
+  margin-left: 170px;
+  margin-bottom: 50px;
+}
+#redpicture {
+  margin-left: 170px;
+}
+
+.temaproces2p {
+  margin-right: 800px;
+}
+
+.temalaering2p {
+  margin-right: 800px;
+  margin-bottom: 100px;
+}
 
 
 }
