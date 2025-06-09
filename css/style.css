@@ -426,7 +426,7 @@ video {
 } */
 
 
-/* tema2 mobilsite */
+/* tema2 website */
 
 .Tema2 {
   font-family: Delius;
@@ -491,34 +491,34 @@ a {
 }
 }
 
-.websitebutton1:hover {
+.websitebutton2:hover {
   background-color: #F8D3F8;
   color: #D97CB9;
 }
 
-#hund {
+
+#galleri {
   width: 80%;
   border-color: #171717;
   border-width: 2px;
   border-style: solid;
 }
 
-#kodninglille {
-  width: 70%;
-  border-color: #171717;
-  border-width: 2px;
-  border-style: solid;
-}
-
 #computerbillede {
+  width: 80%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#koeling {
   width: 70%;
   border-color: #171717;
   border-width: 2px;
   border-style: solid;
-  margin-left: 50px;
 }
 
-#kodningstor {
+#operativsystemer {
   width: 70%;
   border-color: #171717;
   border-width: 2px;
@@ -526,7 +526,15 @@ a {
   margin-left: 40px;
 }
 
-#redpicture {
+#kodningwebsite {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#kodningwebsite2 {
   width: 70%;
   border-color: #171717;
   border-width: 2px;
@@ -1082,20 +1090,52 @@ a {
 }
 
 
-#hund {
+#galleri {
   width: 70%;
   border-color: #171717;
   border-width: 2px;
   border-style: solid;
 }
 
-#kodningstor {
+#computerbillede {
   margin-left: 170px;
   margin-bottom: 50px;
 }
-#redpicture {
+#koeling {
   margin-left: 170px;
 }
+
+
+
+#operativsystemer {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+  margin-bottom: 100px;
+}
+
+#kodningwebsite {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+}
+
+#kodningwebsite2 {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.sestudiestart {
+font-family: Redditlight;
+font-size: 20px;
+}
+
 
 .temaproces2p {
   margin-right: 800px;
