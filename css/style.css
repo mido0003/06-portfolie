@@ -698,6 +698,144 @@ a {
 }
 
 
+/* tema 4 mobil */
+
+
+.Tema4 {
+  font-family: Delius;
+  font-size: 34px;
+  margin-left: 35px;
+}
+
+.emergencyopgaven {
+font-family: RedditExtralight;
+font-size: 16px;
+}
+
+.seemergency {
+font-family: Redditlight;
+font-size: 14px;
+}
+
+
+.minproces4 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning4 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering4 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot4 {
+   font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.websitebutton4 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+  margin-left: 40px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.websitebutton4:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+#talebobler {
+  width: 80%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#kodningemergency {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 50px;
+}
+
+#bedandbreakfast {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+
+
+#emergencyforside {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#kodningemnesite {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#kodningemnesite2 {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 2rem; */
+  padding: 1rem;
+}
+
+/* Indlejret grid til billeder i proces */
+.proces-billeder {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  width: 100%;
+}
+
+
+
 
 
 
@@ -1245,6 +1383,136 @@ a {
 }
 
 .seemnesite {
+font-family: RedditLight;
+font-size: 20px;
+}
+
+
+
+/* tema4 */
+
+
+.Tema4 {
+  font-family: Delius;
+  font-size: 60px;
+  margin-left: 35px;
+}
+
+.emergencyopgaven {
+font-family: RedditExtralight;
+font-size: 20px;
+}
+
+.minproces4 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning4 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering4 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot4 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+
+.websitebutton4 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+/* billeder tema4 */
+#talebobler {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemergency {
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#bedandbreakfast {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+
+#emergencyforside {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemnesite {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemnesite2 {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+
+.temaproces4p {
+  margin-right: 800px;
+}
+
+.temalaering4p {
+  margin-right: 800px;
+  margin-bottom: 100px;
+}
+
+.seemergency {
 font-family: RedditLight;
 font-size: 20px;
 }
