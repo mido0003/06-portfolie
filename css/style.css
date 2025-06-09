@@ -439,6 +439,11 @@ font-family: RedditExtralight;
 font-size: 16px;
 }
 
+.sestudiestart {
+font-family: Redditlight;
+font-size: 14px;
+}
+
 .minproces2 {
   font-family: Delius;
   font-size: 24px;
@@ -544,6 +549,20 @@ a {
   gap: 1rem;
   width: 100%;
 }
+
+/* tema 3 mobil */
+
+/* .seemnesite {
+  
+} */
+
+
+
+
+
+
+
+
 
 
 
