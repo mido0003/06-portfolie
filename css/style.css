@@ -328,7 +328,7 @@ font-size: 16px;
 }
 
 .minloesning1 {
-   font-family: Delius;
+  font-family: Delius;
   font-size: 24px;
   color: #C54298;
   margin-left: 35px;
@@ -418,12 +418,12 @@ a {
 }
 
 /* Billeder og video */
-img,
+/* img,
 video {
   max-width: 100%;
   height: auto;
   border-radius: 2px;
-}
+} */
 
 
 
@@ -671,5 +671,90 @@ a {
   margin-right: 100px;
 }
 
+/*Tema1 site */
+
+.Tema1 {
+  font-family: Delius;
+  font-size: 60px;
+  margin-left: 35px;
 }
 
+.youtube {
+font-family: RedditExtralight;
+font-size: 20px;
+}
+
+.minproces1 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning1 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering1 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot1 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+
+.websitebutton1 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+
+
+}
+
+
+#personality {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+
+#praesentationskort {
+  margin-left: 170px;
+}
+
+.temaproces1p {
+  margin-right: 800px;
+}
+
+.temalaering1p {
+  margin-right: 800px;
+  margin-bottom: 100px;
+}
+
+
+
+}
