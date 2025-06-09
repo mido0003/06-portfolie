@@ -1392,4 +1392,121 @@ font-family: RedditLight;
 font-size: 20px;
 }
 
+/* tema5*/
+
+
+.Tema5 {
+  font-family: Delius;
+  font-size: 60px;
+  margin-left: 35px;
+}
+
+.emnesiteopgaven {
+font-family: RedditExtralight;
+font-size: 20px;
+}
+
+.minproces5 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning5 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering5 {
+  font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot5 {
+   font-family: Delius;
+  font-size: 34px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+
+.websitebutton5 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+#svaneforside {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#svanemarkeringer {
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#styletilesvane {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningsandkasse {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+
+
+.skitsesandkasse {
+  margin-right: 800px;
+}
+
+.temalaering5p {
+  margin-right: 800px;
+  margin-bottom: 100px;
+}
+
+.sesandkasse {
+font-family: RedditLight;
+font-size: 20px;
+}
+
+.sevirksomhed{
+font-family: RedditLight;
+font-size: 20px;
+}
+
+
 }
