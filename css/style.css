@@ -372,13 +372,58 @@ a {
 }
 
 #personality {
-  width: 50%;
+  width: 70%;
   border-color: #171717;
   border-width: 3px;
   border-style: solid;
-  margin-left: 200px;
 }
 
+#personalitypicture {
+  width: 70%;
+  border-color: #171717;
+  border-width: 3px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#medvirkende {
+  width: 70%;
+  border-color: #171717;
+  border-width: 3px;
+  border-style: solid;
+}
+
+#praesentationskort {
+  width: 70%;
+  border-color: #171717;
+  border-width: 3px;
+  border-style: solid;
+  margin-left: 50px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 2rem; */
+  padding: 1rem;
+}
+
+/* Indlejret grid til billeder i proces */
+.proces-billeder {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  width: 100%;
+}
+
+/* Billeder og video */
+img,
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 2px;
+}
 
 
 
