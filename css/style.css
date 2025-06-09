@@ -864,7 +864,42 @@ a {
   font-family: Delius;
   font-size: 34px;
   margin-left: 150px;
+  color: #171717;
 }
+
+.uddannelse {
+  font-family: Delius;
+  font-size: 24px;
+  margin-left: 80px;
+  color: #C54298;
+}
+
+.erhvervserfaring {
+  font-family: Delius;
+  font-size: 24px;
+  margin-left: 100px;
+  color: #C54298;
+}
+
+.semester {
+  font-family: Delius;
+  font-size: 24px;
+  margin-left: 130px;
+  color: #C54298;
+}
+
+.Linjeommig {
+    height: 1px;  /* Tykkelsen */
+    background-color: black; /* Farven på linjen */
+    margin: 40px auto; /* Afstand over og under, centreret */
+    margin-top: 1px;}
+
+
+
+
+  
+
+
 
 
 #mig {
@@ -874,6 +909,8 @@ a {
   border-style: solid;
   margin-left: 100px;
 }
+
+
 
 
 
