@@ -892,16 +892,11 @@ a {
     height: 1px;  /* Tykkelsen */
     background-color: black; /* Farven på linjen */
     margin: 40px auto; /* Afstand over og under, centreret */
-    margin-top: 1px;}
-
-
-
-
-  
-
-
-
-
+    margin-top: 1px;
+  margin-left: 30px;
+  margin-right: 30px;
+  }
+    
 #mig {
   width: 50%;
   border-color: #171717;
