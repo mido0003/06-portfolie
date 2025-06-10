@@ -141,10 +141,11 @@ padding-left: 35px;
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
+}
+
+.tema1knap a {
    text-decoration: none;
    color: #171717; 
-}
 }
 
 .tema1knap:hover {
@@ -164,10 +165,11 @@ a {
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema2knap a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 .tema2knap:hover {
@@ -185,10 +187,11 @@ a {
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema3knap a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -212,10 +215,11 @@ a {
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema4knap a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -236,10 +240,11 @@ a {
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema5knap a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -494,10 +499,11 @@ color: #171717;
   border-radius: 12px;
   margin-left: 40px;
   color: #171717;
-a {
+
+}
+.websitebutton2 a {
    text-decoration: none;
    color: #171717; 
-}
 }
 
 .websitebutton2:hover {
@@ -1240,10 +1246,11 @@ font-size: 20px;
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema1knap a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -1258,10 +1265,11 @@ a {
   padding: 20px 40px;
   font-family: RedditLight;
   border-radius: 12px;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema2knap a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -1274,10 +1282,11 @@ a {
   padding: 20px 40px;
   font-family: RedditLight;
   border-radius: 12px;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema3knap a {
+  text-decoration: none;
+   color: #171717;
 }
 
 
@@ -1295,10 +1304,11 @@ a {
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema4knap a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -1312,10 +1322,11 @@ a {
   padding: 20px 40px;
   font-family: RedditLight;
   border-radius: 12px;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.tema5knap a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -1417,10 +1428,11 @@ font-size: 20px;
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.websitebutton1 a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -1500,10 +1512,11 @@ font-size: 20px;
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.websitebutton2 a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -1637,10 +1650,11 @@ font-size: 20px;
   font-family: RedditLight;
   border-radius: 12px;
   color: #171717;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+.websitebutton3 a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -1738,10 +1752,12 @@ font-size: 20px;
   padding: 20px 40px;
   font-family: RedditLight;
   border-radius: 12px;
-a {
-   text-decoration: none;
-   color: #171717; 
+
 }
+
+.websitebutton4 a {
+  text-decoration: none;
+   color: #171717; 
 }
 
 
@@ -1874,10 +1890,12 @@ padding-top: 290px;
   padding: 20px 40px;
   font-family: RedditLight;
   border-radius: 12px;
-a {
-   text-decoration: none;
-   color: #171717; 
 }
+
+
+.websitebutton51 a {
+    text-decoration: none;
+   color: #171717; 
 }
 
 .websitebutton52 {
@@ -1888,10 +1906,12 @@ a {
   padding: 20px 40px;
   font-family: RedditLight;
   border-radius: 12px;
-a {
+
+}
+
+.websitebutton52 a {
    text-decoration: none;
    color: #171717; 
-}
 }
 
 .minproces5 {
@@ -1960,10 +1980,11 @@ a {
   font-family: RedditLight;
   border-radius: 12px;
   margin-left: 40px;
-a {
+}
+
+.websitebutton5 a {
    text-decoration: none;
    color: #171717; 
-}
 }
 
 
