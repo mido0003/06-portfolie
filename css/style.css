@@ -725,6 +725,10 @@ font-size: 14px;
   margin-top: 70px;
 }
 
+.temaproces4p {
+  margin-bottom: 30px;
+}
+
 .minloesning4 {
   font-family: Delius;
   font-size: 24px;
@@ -740,6 +744,7 @@ font-size: 14px;
   margin-left: 35px;
   margin-top: 70px;
 }
+
 
 .screenshoot4 {
    font-family: Delius;
@@ -1765,6 +1770,7 @@ a {
 
 .temaproces4p {
   margin-right: 800px;
+  padding-bottom: 50px;
 }
 
 .temalaering4p {
