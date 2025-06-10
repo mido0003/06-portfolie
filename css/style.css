@@ -698,7 +698,148 @@ a {
 }
 
 
+<<<<<<< HEAD
 /* tema 5 mobil */
+=======
+/* tema 4 mobil */
+
+
+.Tema4 {
+  font-family: Delius;
+  font-size: 34px;
+  margin-left: 35px;
+}
+
+.emergencyopgaven {
+font-family: RedditExtralight;
+font-size: 16px;
+}
+
+.seemergency {
+font-family: Redditlight;
+font-size: 14px;
+}
+
+
+.minproces4 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning4 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minlaering4 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.screenshoot4 {
+   font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.websitebutton4 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+  margin-left: 40px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.websitebutton4:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+#talebobler {
+  width: 80%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#kodningemergency {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 50px;
+}
+
+#bedandbreakfast {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+
+
+#emergencyforside {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#kodningemnesite {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#kodningemnesite2 {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 2rem; */
+  padding: 1rem;
+}
+
+/* Indlejret grid til billeder i proces */
+.proces-billeder {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  width: 100%;
+}
+
+
+
+>>>>>>> main
 
 
 .Tema5 {
@@ -1454,21 +1595,38 @@ font-family: RedditLight;
 font-size: 20px;
 }
 
+<<<<<<< HEAD
 /* tema5*/
 
 
 .Tema5 {
+=======
+
+
+/* tema4 */
+
+
+.Tema4 {
+>>>>>>> main
   font-family: Delius;
   font-size: 60px;
   margin-left: 35px;
 }
 
+<<<<<<< HEAD
 .emnesiteopgaven {
+=======
+.emergencyopgaven {
+>>>>>>> main
 font-family: RedditExtralight;
 font-size: 20px;
 }
 
+<<<<<<< HEAD
 .minproces5 {
+=======
+.minproces4 {
+>>>>>>> main
   font-family: Delius;
   font-size: 34px;
   color: #C54298;
@@ -1476,7 +1634,11 @@ font-size: 20px;
   margin-top: 70px;
 }
 
+<<<<<<< HEAD
 .minloesning5 {
+=======
+.minloesning4 {
+>>>>>>> main
    font-family: Delius;
   font-size: 34px;
   color: #C54298;
@@ -1484,7 +1646,11 @@ font-size: 20px;
   margin-top: 70px;
 }
 
+<<<<<<< HEAD
 .minlaering5 {
+=======
+.minlaering4 {
+>>>>>>> main
   font-family: Delius;
   font-size: 34px;
   color: #C54298;
@@ -1492,7 +1658,11 @@ font-size: 20px;
   margin-top: 70px;
 }
 
+<<<<<<< HEAD
 .screenshoot5 {
+=======
+.screenshoot4 {
+>>>>>>> main
    font-family: Delius;
   font-size: 34px;
   color: #C54298;
@@ -1501,7 +1671,11 @@ font-size: 20px;
 }
 
 
+<<<<<<< HEAD
 .websitebutton5 {
+=======
+.websitebutton4 {
+>>>>>>> main
   background-color: #CDF0CA;
   text-align: center;
   text-decoration: none;
@@ -1516,7 +1690,12 @@ a {
 }
 
 
+<<<<<<< HEAD
 #svaneforside {
+=======
+/* billeder tema4 */
+#talebobler {
+>>>>>>> main
   width: 70%;
   border-color: #171717;
   border-width: 2px;
@@ -1525,7 +1704,11 @@ a {
   margin-left: 170px;
 }
 
+<<<<<<< HEAD
 #svanemarkeringer {
+=======
+#kodningemergency {
+>>>>>>> main
   border-color: #171717;
   border-width: 2px;
   border-style: solid;
@@ -1533,6 +1716,7 @@ a {
   margin-left: 170px;
 }
 
+<<<<<<< HEAD
 #styletilesvane {
   border-color: #171717;
   border-width: 2px;
@@ -1542,6 +1726,9 @@ a {
 }
 
 #kodningsandkasse {
+=======
+#bedandbreakfast {
+>>>>>>> main
    border-color: #171717;
   border-width: 2px;
   border-style: solid;
@@ -1549,7 +1736,12 @@ a {
   margin-left: 170px;
 }
 
+<<<<<<< HEAD
 #skitsesandkasse{
+=======
+
+#emergencyforside {
+>>>>>>> main
    border-color: #171717;
   border-width: 2px;
   border-style: solid;
@@ -1557,6 +1749,7 @@ a {
   margin-left: 170px;
 }
 
+<<<<<<< HEAD
 #styletilegabriella {
   width: 70%;
   border-color: #171717;
@@ -1584,15 +1777,44 @@ a {
 }
 
 .temalaering5p {
+=======
+#kodningemnesite {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+#kodningemnesite2 {
+   border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+
+
+.temaproces4p {
+  margin-right: 800px;
+}
+
+.temalaering4p {
+>>>>>>> main
   margin-right: 800px;
   margin-bottom: 100px;
 }
 
+<<<<<<< HEAD
 .sesandkasse {
+=======
+.seemergency {
+>>>>>>> main
 font-family: RedditLight;
 font-size: 20px;
 }
 
+<<<<<<< HEAD
 .sevirksomhed{
 font-family: RedditLight;
 font-size: 20px;
@@ -1668,3 +1890,6 @@ font-size: 20px;
 
 
 }
+=======
+}
+>>>>>>> main
