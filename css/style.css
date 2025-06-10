@@ -126,7 +126,8 @@ p {
   text-decoration: none;
    color: #171717; 
 }
-a:hover {
+
+.Knap a:hover {
 color: #C54298;
 }
 
@@ -1190,7 +1191,7 @@ p {
     padding-left: 35px;
 }
 
-a:hover {
+.Knap a:hover {
 color: #C54298;
 }
 
