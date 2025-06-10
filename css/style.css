@@ -19,7 +19,7 @@
 
 .container {
   position: relative;
-  display: inline-block; /* viktig for at tekst følger bildet */
+  display: inline-block; /* vigtig for at tekst følger bildet */
 }
 
 #computer {
@@ -1136,12 +1136,6 @@ height: auto;
 margin-left: 500px;
 }
 
-/* #computer {
-  display: block;
-  width: 100%; 
-  padding-left: 90px;
-} */
-
 /* H2 */
 .Velkommen {
     font-family: Delius;
@@ -1189,7 +1183,7 @@ padding-left: 35px;
 
 .container {
   position: relative;
-  display: inline-block; /* viktig for at tekst følger bildet */
+  display: inline-block; /* vigtig for at tekst følger bildet */
 }
 
 #computer {
@@ -1200,9 +1194,9 @@ padding-left: 35px;
 
 .overlay-text {
   position: absolute;
-  top: 50%;   /* midt på høyden */
+  top: 50%;   /* midt på højden */
   left: 50%;  /* midt på bredden */
-  transform: translate(-50%, -50%); /* nøyaktig sentrering */
+  transform: translate(-50%, -50%); /* nøjagtig sentrering */
   color: #171717;
   font-size: 60px;
   font-family: Delius;
@@ -2025,16 +2019,6 @@ a {
   margin-left: 40px;
 }
 
-
-
-
-
-
-
-
-
-
-
 /* om mig computer  */
 
 .ommig{
@@ -2095,8 +2079,5 @@ a {
   border-style: solid;
   margin-left: 570px;
 }
-
-
-
 
 }
