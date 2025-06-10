@@ -52,14 +52,15 @@
     list-style-type: none;
     padding:2em; 
     padding-left: 230px;
-    a {
-   text-decoration: none;
+}
+
+.menu a {
+  text-decoration: none;
    color: #171717; 
 }
-        a:hover {
-            color: #C54298;
-        }
-        }
+a:hover {
+color: #C54298;
+}
 
 body {
     background-color: #FFFCD9;
@@ -118,16 +119,16 @@ p {
 
 .Knap {
     font-family: Delius;
-   a {
-   text-decoration: none;
-   color: #171717; 
-}
- a:hover {
-            color: #C54298;
-        }
-padding-left: 35px;
+    padding-left: 35px;
 }
 
+.Knap a {
+  text-decoration: none;
+   color: #171717; 
+}
+a:hover {
+color: #C54298;
+}
 
 /* KNAP TEMA1 FORSIDE */
 .tema1knap {
@@ -1186,10 +1187,11 @@ p {
     font-family: Delius;
     font-size: 20px;
     margin-left:30px;
- a:hover {
-color: #C54298;
+    padding-left: 35px;
 }
-padding-left: 35px;
+
+a:hover {
+color: #C54298;
 }
 
 .Knap a {
@@ -2115,5 +2117,4 @@ padding-top: 290px;
   border-style: solid;
   margin-left: 570px;
 }
-
 }
