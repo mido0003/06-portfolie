@@ -689,6 +689,10 @@ a {
   padding: 1rem;
 }
 
+.temaproces3p1 {
+  margin-bottom: 30px;
+}
+
 /* Indlejret grid til billeder i proces */
 .proces-billeder {
   display: grid;
@@ -1557,6 +1561,12 @@ font-size: 20px;
   margin-top: 70px;
 }
 
+.temaproces3p1 {
+  font-size: 20px;
+  padding-right: 900px;
+  margin-bottom: 50px;
+}
+
 .minloesning3 {
    font-family: Delius;
   font-size: 34px;
@@ -1565,6 +1575,8 @@ font-size: 20px;
   margin-top: 70px;
 }
 
+
+
 .minlaering3 {
   font-family: Delius;
   font-size: 34px;
@@ -1572,6 +1584,13 @@ font-size: 20px;
   margin-left: 35px;
   margin-top: 70px;
 }
+
+.temalaering3p1 {
+  font-size: 20px;
+  padding-right: 900px;
+}
+
+
 
 .screenshoot3 {
    font-family: Delius;
@@ -1628,7 +1647,6 @@ a {
 
 .temalaering3p {
   margin-right: 800px;
-  margin-bottom: 100px;
 }
 
 .seemnesite {
