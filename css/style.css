@@ -697,8 +697,6 @@ a {
   width: 100%;
 }
 
-
-/* tema 5 mobil */
 /* tema 4 mobil */
 
 
@@ -910,6 +908,31 @@ a {
    text-decoration: none;
    color: #171717; 
 }
+}
+
+.websitebutton52:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
+}
+
+.websitebutton51 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+  margin-left: 40px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.websitebutton51:hover {
+  background-color: #F8D3F8;
+  color: #D97CB9;
 }
 
 .websitebutton51 {
