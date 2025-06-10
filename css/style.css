@@ -835,6 +835,8 @@ a {
   width: 100%;
 }
 
+/* tema5 mobil */
+
 .Tema5 {
   font-family: Delius;
   font-size: 34px;
@@ -891,7 +893,7 @@ padding-right: 70px;
   margin-top: 70px;
 }
 
-.websitebutton5 {
+.websitebutton52 {
   background-color: #CDF0CA;
   text-align: center;
   text-decoration: none;
@@ -900,6 +902,20 @@ padding-right: 70px;
   font-family: RedditLight;
   border-radius: 12px;
   margin-left: 40px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.websitebutton51 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
 a {
    text-decoration: none;
    color: #171717; 
@@ -1589,7 +1605,6 @@ font-size: 20px;
 }
 
 
-
 /* tema4 */
 
 
@@ -1721,23 +1736,6 @@ a {
   margin-right: 800px;
 }
 
-#kodningemnesite {
-   border-color: #171717;
-  border-width: 2px;
-  border-style: solid;
-  margin-bottom: 100px;
-  margin-left: 170px;
-}
-
-#kodningemnesite2 {
-   border-color: #171717;
-  border-width: 2px;
-  border-style: solid;
-  margin-bottom: 100px;
-  margin-left: 170px;
-}
-
-
 .temaproces4p {
   margin-right: 800px;
 }
@@ -1752,6 +1750,9 @@ font-family: RedditLight;
 font-size: 20px;
 }
 
+
+/* tema5 */
+
 .sevirksomhed{
 font-family: RedditLight;
 font-size: 20px;
@@ -1762,6 +1763,196 @@ padding-top: 325px;
 font-family: RedditLight;
 font-size: 20px;
 }
+
+
+.Tema5 {
+  font-family: Delius;
+  font-size: 60px;
+  margin-left: 35px;
+}
+
+.sandkasseogvirksomhed {
+font-family: RedditExtralight;
+font-size: 20px;
+}
+
+.sesandkasse {
+font-family: Redditlight;
+font-size: 20px;
+}
+
+.sevirksomhed {
+font-family: Redditlight;
+font-size: 20px;
+padding-top: 290px;
+}
+
+.websitebutton51 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.websitebutton52 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 40px;
+  font-family: RedditLight;
+  border-radius: 12px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+.minproces5 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.temaproces5p {
+  font-size: 20px;
+  padding-right: 900px;
+}
+
+.minloesning5 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.minloesning5p {
+  font-size: 20px;
+}
+
+.minlaering5 {
+  font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.temalaering5p {
+  font-size: 20px;
+  padding-right: 900px;
+}
+
+.screenshoot5 {
+   font-family: Delius;
+  font-size: 24px;
+  color: #C54298;
+  margin-left: 35px;
+  margin-top: 70px;
+}
+
+.websitebutton5 {
+  background-color: #CDF0CA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-family: RedditLight;
+  border-radius: 12px;
+  margin-left: 40px;
+a {
+   text-decoration: none;
+   color: #171717; 
+}
+}
+
+
+#svane {
+  width: 80%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#svaneforside {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 50px;
+}
+
+#svanemarkeringer {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+}
+
+
+#styletilesvane {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#kodningsandkasse {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+#skitsesandkasse {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+
+#styletilegabriella {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+
+
+#skitsevirksomhed {
+  width: 70%;
+  border-color: #171717;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
 /* om mig computer  */
 
 .ommig{
