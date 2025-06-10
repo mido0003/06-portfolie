@@ -1,18 +1,3 @@
-
-
-
-/* Mine farver HUSKE AT SLETTE DENNE NÅR JEG SKAL AFLEVERE */
-color {
-    color: #FFFCD9;
-    color: #CDF0CA;
-    color: #F8D3F8;
-    color: #D97CB9;
-    color: #C54298;
-    color: #171717;
-   
-}
-
-
 /* Mine skrifttyper */
 @font-face {
     font-family: Delius;
@@ -93,7 +78,7 @@ footer {
 .Linje {
     
     height: 1px;  /* Tykkelsen */
-    background-color: black; /* Farven på linjen */
+    background-color: #171717; /* Farven på linjen */
     margin: 40px auto; /* Afstand over og under, centreret */
     margin-top: 1px;
 }
@@ -128,6 +113,7 @@ p {
     font-size: 14px;
     padding-left: 35px;
     padding-right: 25px;
+    color: #171717;
 }
 
 .Knap {
@@ -261,18 +247,20 @@ a {
 .kontakt {
 font-family: Delius;
 font-size: 16px;
+color: #171717;
 }
 
 .email {
   font-family: RedditLight;
   font-size: 14px;
   padding-bottom: 30px;
+  color: #171717;
 }
 
 .Linjefooter {
   margin-top: 100px;
   height: 1px;  /* Tykkelsen */
-    background-color: black; /* Farven på linjen */
+    background-color: #171717; /* Farven på linjen */
     margin: 40px auto; /* Afstand over og under, centreret */
 }
 
@@ -293,6 +281,7 @@ font-size: 16px;
 .Overblik {
   margin-bottom: 20px;
   margin-left: 2px;
+  color: #171717;
 }
 
 #macbook {
@@ -312,11 +301,13 @@ font-size: 16px;
   font-family: Delius;
   font-size: 34px;
   margin-left: 35px;
+  color: #171717;
 }
 
 .youtube {
 font-family: RedditExtralight;
 font-size: 16px;
+color: #171717;
 }
 
 .minproces1 {
@@ -329,6 +320,7 @@ font-size: 16px;
 
 .temaproces1p {
   margin-bottom: 30px;
+  color: #171717;
 }
 
 .minloesning1 {
@@ -421,14 +413,6 @@ a {
   width: 100%;
 }
 
-/* Billeder og video */
-/* img,
-video {
-  max-width: 100%;
-  height: auto;
-  border-radius: 2px;
-} */
-
 
 /* tema2 website */
 
@@ -436,25 +420,30 @@ video {
   font-family: Delius;
   font-size: 34px;
   margin-left: 35px;
+  color: #171717;
 }
 
 .studiestartsproeven {
 font-family: RedditExtralight;
 font-size: 16px;
+color: #171717;
 }
 
 .sestudiestart {
 font-family: Redditlight;
 font-size: 14px;
+color: #171717;
 }
 
 
 .temaproces2p {
   margin-bottom: 40px; 
+  color: #171717;
 }
 
 .temalaering2p {
   margin-bottom: 40px;
+  color: #171717;
 }
 
 .minproces2 {
@@ -574,24 +563,24 @@ a {
 
 /* tema 3 mobil */
 
-/* .seemnesite {
-  
-} */
 
 .Tema3 {
   font-family: Delius;
   font-size: 34px;
   margin-left: 35px;
+  color: #171717;
 }
 
 .emnesiteopgaven {
 font-family: RedditExtralight;
 font-size: 16px;
+color: #171717;
 }
 
 .seemnesite {
 font-family: Redditlight;
 font-size: 14px;
+color: #171717;
 }
 
 
@@ -705,6 +694,7 @@ a {
 
 .temaproces3p1 {
   margin-bottom: 30px;
+  color: #171717;
 }
 
 /* Indlejret grid til billeder i proces */
@@ -722,16 +712,19 @@ a {
   font-family: Delius;
   font-size: 34px;
   margin-left: 35px;
+  color: #171717;
 }
 
 .emergencyopgaven {
 font-family: RedditExtralight;
 font-size: 16px;
+color: #171717;
 }
 
 .seemergency {
 font-family: Redditlight;
 font-size: 14px;
+color: #171717;
 }
 
 
@@ -745,6 +738,7 @@ font-size: 14px;
 
 .temaproces4p {
   margin-bottom: 30px;
+  color: #171717;
 }
 
 .minloesning4 {
@@ -862,16 +856,19 @@ a {
   font-family: Delius;
   font-size: 34px;
   margin-left: 35px;
+  color: #171717;
 }
 
 .sandkasseogvirksomhed {
 font-family: RedditExtralight;
 font-size: 16px;
+color: #171717;
 }
 
 .sesandkasse {
 font-family: Redditlight;
 font-size: 14px;
+color: #171717;
 }
 
 .sevirksomhed {
@@ -879,6 +876,7 @@ font-family: Redditlight;
 font-size: 14px;
 padding-top: 245px;
 padding-right: 70px;
+color: #171717;
 }
 
 
@@ -893,6 +891,7 @@ padding-right: 70px;
 .temaprocess5p1 {
   font-size: 14px;
   padding-bottom: 30px;
+  color: #171717;
 }
 .minloesning5 {
   font-family: Delius;
@@ -1091,7 +1090,7 @@ a {
 
 .Linjeommig {
     height: 1px;  /* Tykkelsen */
-    background-color: black; /* Farven på linjen */
+    background-color: #171717; /* Farven på linjen */
     margin: 40px auto; /* Afstand over og under, centreret */
     margin-top: 1px;
   margin-left: 30px;
