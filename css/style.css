@@ -698,9 +698,7 @@ a {
 }
 
 
-<<<<<<< HEAD
 /* tema 5 mobil */
-=======
 /* tema 4 mobil */
 
 
@@ -836,11 +834,6 @@ a {
   gap: 1rem;
   width: 100%;
 }
-
-
-
->>>>>>> main
-
 
 .Tema5 {
   font-family: Delius;
@@ -1595,38 +1588,23 @@ font-family: RedditLight;
 font-size: 20px;
 }
 
-<<<<<<< HEAD
-/* tema5*/
-
-
-.Tema5 {
-=======
 
 
 /* tema4 */
 
 
 .Tema4 {
->>>>>>> main
   font-family: Delius;
   font-size: 60px;
   margin-left: 35px;
 }
 
-<<<<<<< HEAD
-.emnesiteopgaven {
-=======
 .emergencyopgaven {
->>>>>>> main
 font-family: RedditExtralight;
 font-size: 20px;
 }
 
-<<<<<<< HEAD
-.minproces5 {
-=======
 .minproces4 {
->>>>>>> main
   font-family: Delius;
   font-size: 34px;
   color: #C54298;
@@ -1634,11 +1612,7 @@ font-size: 20px;
   margin-top: 70px;
 }
 
-<<<<<<< HEAD
-.minloesning5 {
-=======
 .minloesning4 {
->>>>>>> main
    font-family: Delius;
   font-size: 34px;
   color: #C54298;
@@ -1646,11 +1620,7 @@ font-size: 20px;
   margin-top: 70px;
 }
 
-<<<<<<< HEAD
-.minlaering5 {
-=======
 .minlaering4 {
->>>>>>> main
   font-family: Delius;
   font-size: 34px;
   color: #C54298;
@@ -1658,11 +1628,7 @@ font-size: 20px;
   margin-top: 70px;
 }
 
-<<<<<<< HEAD
-.screenshoot5 {
-=======
 .screenshoot4 {
->>>>>>> main
    font-family: Delius;
   font-size: 34px;
   color: #C54298;
@@ -1671,11 +1637,7 @@ font-size: 20px;
 }
 
 
-<<<<<<< HEAD
-.websitebutton5 {
-=======
 .websitebutton4 {
->>>>>>> main
   background-color: #CDF0CA;
   text-align: center;
   text-decoration: none;
@@ -1690,12 +1652,8 @@ a {
 }
 
 
-<<<<<<< HEAD
-#svaneforside {
-=======
 /* billeder tema4 */
 #talebobler {
->>>>>>> main
   width: 70%;
   border-color: #171717;
   border-width: 2px;
@@ -1704,11 +1662,7 @@ a {
   margin-left: 170px;
 }
 
-<<<<<<< HEAD
-#svanemarkeringer {
-=======
 #kodningemergency {
->>>>>>> main
   border-color: #171717;
   border-width: 2px;
   border-style: solid;
@@ -1716,7 +1670,6 @@ a {
   margin-left: 170px;
 }
 
-<<<<<<< HEAD
 #styletilesvane {
   border-color: #171717;
   border-width: 2px;
@@ -1725,23 +1678,16 @@ a {
   margin-left: 170px;
 }
 
-#kodningsandkasse {
-=======
+
 #bedandbreakfast {
->>>>>>> main
    border-color: #171717;
   border-width: 2px;
   border-style: solid;
   margin-bottom: 100px;
   margin-left: 170px;
 }
-
-<<<<<<< HEAD
-#skitsesandkasse{
-=======
 
 #emergencyforside {
->>>>>>> main
    border-color: #171717;
   border-width: 2px;
   border-style: solid;
@@ -1749,7 +1695,6 @@ a {
   margin-left: 170px;
 }
 
-<<<<<<< HEAD
 #styletilegabriella {
   width: 70%;
   border-color: #171717;
@@ -1776,8 +1721,6 @@ a {
   margin-right: 800px;
 }
 
-.temalaering5p {
-=======
 #kodningemnesite {
    border-color: #171717;
   border-width: 2px;
@@ -1800,21 +1743,15 @@ a {
 }
 
 .temalaering4p {
->>>>>>> main
   margin-right: 800px;
   margin-bottom: 100px;
 }
 
-<<<<<<< HEAD
-.sesandkasse {
-=======
 .seemergency {
->>>>>>> main
 font-family: RedditLight;
 font-size: 20px;
 }
 
-<<<<<<< HEAD
 .sevirksomhed{
 font-family: RedditLight;
 font-size: 20px;
@@ -1890,6 +1827,3 @@ font-size: 20px;
 
 
 }
-=======
-}
->>>>>>> main
