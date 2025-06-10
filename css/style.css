@@ -869,6 +869,10 @@ padding-right: 70px;
   margin-top: 70px;
 }
 
+.temaprocess5p1 {
+  font-size: 14px;
+  padding-bottom: 30px;
+}
 .minloesning5 {
   font-family: Delius;
   font-size: 24px;
@@ -1828,6 +1832,12 @@ a {
   padding-right: 900px;
 }
 
+.temaprocess5p1 {
+  font-size: 20px;
+  padding-right: 900px;
+  padding-bottom: 50px;
+}
+
 .minloesning5 {
   font-family: Delius;
   font-size: 24px;
@@ -1849,6 +1859,11 @@ a {
 }
 
 .temalaering5p {
+  font-size: 20px;
+  padding-right: 900px;
+}
+
+.temalaering5p1 {
   font-size: 20px;
   padding-right: 900px;
 }
@@ -1914,6 +1929,7 @@ a {
   border-width: 2px;
   border-style: solid;
   margin-left: 40px;
+  margin-bottom:100px;
 }
 
 #skitsesandkasse {
@@ -1922,6 +1938,7 @@ a {
   border-width: 2px;
   border-style: solid;
   margin-left: 40px;
+  margin-bottom: 100px;
 }
 
 
